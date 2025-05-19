@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Google Play Child Safety Standards Policy</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      line-height: 1.6;
+    }
+    h1, h2, h3 {
+      color: #333;
+    }
+    ul {
+      margin-left: 20px;
+    }
+    .timeline {
+      background-color: #f9f9f9;
+      padding: 20px;
+      border-left: 4px solid #2196F3;
+      margin-top: 20px;
+    }
+    .contact {
+      margin-top: 40px;
+      padding-top: 20px;
+      border-top: 1px solid #ccc;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Learning More About Our Child Safety Standards Policy</h1>
+
+  <p>
+    Google Play takes seriously the safety of children on our platform and is committed to working to keep our store free of child sexual abuse and exploitation. 
+    We require apps in the Social and Dating categories to comply with our Child Safety Standards policy.
+  </p>
+
+  <h2>Overview</h2>
+  <p>The Child Safety Standards policy requires apps to:</p>
+  <ul>
+    <li>Have published standards against child sexual abuse and exploitation (CSAE);</li>
+    <li>Provide an in-app mechanism for user feedback;</li>
+    <li>Address child sexual abuse material (CSAM);</li>
+    <li>Comply with child safety laws; and</li>
+    <li>Provide a child safety point of contact.</li>
+  </ul>
+
+  <p>
+    Make sure to read the policy in full and ensure you understand and comply. 
+    Developers who are not in compliance by the deadline may be subject to enforcement actions.
+  </p>
+
+  <h2>Timeline Information</h2>
+  <div class="timeline">
+    <p><strong>April 2024:</strong> We announced the new Play Child Safety Standards policy.</p>
+    <p>Declaration form will be available for in-scope apps in Play Console this December.</p>
+    <p><strong>January 22, 2025:</strong> Developers are required to submit declaration forms.</p>
+    <ul>
+      <li>Developers who have failed to submit a completed declaration form by this date will be blocked from updating their app.</li>
+      <li>Developers who have requested an extension will have until <strong>March 19, 2025</strong> to submit their completed declaration form.</li>
+    </ul>
+    <p><strong>March 19, 2025:</strong> Full policy compliance is mandatory for all developers, including those who requested an extension.</p>
+    <p>After this date, all apps are subject to removal from Google Play if not compliant.</p>
+  </div>
+
+  <div class="contact">
+    <p><strong>For further discussion or questions, contact:</strong> <a href="mailto:moaziftikhar9@gmail.com">moaziftikhar9@gmail.com</a></p>
+  </div>
+
+</body>
+</html>
